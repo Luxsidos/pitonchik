@@ -1,0 +1,3 @@
+virtual envirment
+
+python -m venv python_mini
